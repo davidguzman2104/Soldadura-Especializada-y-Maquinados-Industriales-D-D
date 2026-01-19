@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: "/Soldadura-Especializada-y-Maquinados-Industriales-D-D/",
+ base: "/Soldadura-Especializada-y-Maquinados-Industriales-D-D/",
   server: {
     host: "::",
     port: 8080,
